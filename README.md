@@ -60,6 +60,14 @@
 
 ---
 
+## 📈 Most Used Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianlona&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
 ## 📌 Featured Projects
 
 ### ⚽ Quiniela App
