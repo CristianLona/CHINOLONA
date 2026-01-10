@@ -1,111 +1,133 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cristianlona&label=Profile%20views&color=0047AB&style=plastic" alt="cristianlona" height="25" />
-</p>
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0D1117&reversal=true"
+    alt="header"
+  />
+</div>
 
-<h1 align="center">Hi, I'm Cristian 👋</h1>
-
-<p align="center">
-  Computer Engineering student focused on <b>software and web development</b>. <br/>
-  I build clean, functional products with <b>TypeScript</b> and modern full-stack tools.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristian-josue-lona-avalos-3411b2218" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cristianlonavalos@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/cristianlona" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Engineering student at the University of Guadalajara (UDG)
-- 💻 Focused on **TypeScript**, **React**, and **backend development**
-- 🧠 Interested in **full-stack development**, APIs, and scalable architectures
-- 🌱 Currently improving **REST API design**, backend fundamentals, and cloud basics
-- 🎯 Looking for **Internship / Junior Software** opportunities
-
----
-
-## 🛠 Tech Stack
-
-#### 🔧 Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0B61A4?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🖥️ Frameworks & Platforms
-
-![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-1F2937?style=for-the-badge&logo=vite&logoColor=646CFF)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1F2937?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=22C55E)
-![NestJS](https://img.shields.io/badge/NestJS-1F2937?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-#### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
-![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
----
-
-## 📈 Most Used Languages
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianlona&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Top Languages"
+    src="https://komarev.com/ghpvc/?username=CristianLona&label=Profile%20views&color=0047AB&style=plastic"
+    alt="CristianLona"
+    height="25"
   />
 </p>
 
-## 📌 Featured Projects
+<h1 align="center">
+  Hi, I'm Cristian
+  <img height="34" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="parrot" />
+</h1>
 
-### ⚽ Quiniela App
-Full-stack web application for managing sports prediction pools (quinielas).
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=24&duration=2500&pause=650&color=58A6FF&center=true&vCenter=true&width=850&height=80&lines=Computer+Engineering+Student+@+University+of+Guadalajara+(UDG);Full-Stack+Developer+(TypeScript+%2F+React+%2F+NestJS);Building+clean+and+scalable+solutions;Passionate+about+Cloud+Architecture+and+API+Design;Always+learning+and+building"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-- TypeScript + React (frontend) and NestJS (backend)
-- RESTful API architecture
-- Firebase authentication and data management
-- Structured for scalability and maintainability
+<div align="center">
 
-➡️ **Repo:** (replace with your repo link)
-- https://github.com/cristianlona/<YOUR_REPO_NAME>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-josue-lona-avalos-3411b2218)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianLona)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianlonavalos@gmail.com)
 
-### 🗺 BergamotaRoutes
-Route tracking and visualization platform with interactive maps.
+</div>
 
-- TypeScript + map visualization
-- Focused on user-friendly interfaces
+<br>
 
-➡️ **Repo:** (replace with your repo link)
-- https://github.com/cristianlona/<YOUR_REPO_NAME>
+<div align="center">
+  <pre>
+🚀 About Me
+
+🎓 Computer Engineering student at UDG (Guadalajara, Mexico)
+💻 Full-stack focus: TypeScript, React, NestJS
+🧠 Interested in scalable systems, clean architecture, and real-world applications
+🌱 Currently improving REST API design, SQL fundamentals, and cloud basics
+🎯 Looking for internship / junior software opportunities
+  </pre>
+</div>
 
 ---
 
-## 📈 GitHub Stats (optional)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### ⚽ Quiniela App
+**Full-stack application for managing sports pools with admin flows.**  
+![React | NestJS](https://img.shields.io/badge/React_|_NestJS-000000?style=flat-square)  
+[View Repository →](https://github.com/CristianLona/Quiniela-App)
+
+<br>
+
+### 🗺 BergamotaRoutes
+**Interactive route tracking and visualization platform with interactive maps.**  
+![React | Maps](https://img.shields.io/badge/React_|_Maps-000000?style=flat-square)  
+[View Repository →](https://github.com/ICaesarI/BergamotaRoutes---TechConnect)
+
+</div>
+
+<br>
+
+---
+
+## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianlona&show_icons=true&hide_title=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianlona&layout=compact" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CristianLona&show_icons=true&theme=gotham&title_color=ffffff&text_color=999&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianLona&layout=compact&langs_count=6&theme=gotham&title_color=ffffff&text_color=999&bg_color=000000&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: cristianlonavalos@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/cristian-josue-lona-avalos-3411b2218
-- 🧑‍💻 GitHub: https://github.com/cristianlona
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianlonavalos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-josue-lona-avalos-3411b2218)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianLona)
+
+</div>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0D1117&section=footer"
+    alt="footer"
+  />
+</div>
