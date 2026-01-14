@@ -1,8 +1,7 @@
 <div align="center">
   <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0D1117&reversal=true"
-    alt="header"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,100:161B22&section=header"
   />
 </div>
 
@@ -52,7 +51,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Tech Stack
 
 <div align="center">
 
@@ -104,7 +103,7 @@
 
 ---
 
-## 📈 Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CristianLona&show_icons=true&theme=gotham&title_color=ffffff&text_color=999&bg_color=000000&hide_border=true" alt="GitHub Stats" />
@@ -125,8 +124,7 @@
 
 <div align="center">
   <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0D1117&section=footer"
-    alt="footer"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,100:161B22&section=footer"
   />
 </div>
