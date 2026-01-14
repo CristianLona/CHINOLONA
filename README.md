@@ -5,14 +5,6 @@
   />
 </div>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=CristianLona&label=Profile%20views&color=0047AB&style=plastic"
-    alt="CristianLona"
-    height="25"
-  />
-</p>
-
 <h1 align="center">
   Hi, I'm Cristian
   <img height="34" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="parrot" />
